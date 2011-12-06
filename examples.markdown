@@ -65,6 +65,9 @@ RCResponse *response = [[site resource:@"accounts/abc123"] get];
 ```
 
 	
+---
+title: Extended Examples
+---
 
 #### Making Requests
 
