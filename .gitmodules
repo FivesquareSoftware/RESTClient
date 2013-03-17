@@ -1,6 +1,0 @@
-[submodule "Ext/OCSpec"]
-	path = Ext/OCSpec
-	url = git@github.com:FivesquareSoftware/OCSpec.git
-[submodule "Ext/OCMock"]
-	path = Ext/OCMock
-	url = git@github.com:FivesquareSoftware/OCMock.git
